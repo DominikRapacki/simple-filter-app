@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-filter-app/static/css/main.23dd3fad.chunk.css",
+    "main.js": "/simple-filter-app/static/js/main.d7208ff5.chunk.js",
+    "main.js.map": "/simple-filter-app/static/js/main.d7208ff5.chunk.js.map",
+    "runtime~main.js": "/simple-filter-app/static/js/runtime~main.488622e8.js",
+    "runtime~main.js.map": "/simple-filter-app/static/js/runtime~main.488622e8.js.map",
+    "static/js/2.4ea1ec15.chunk.js": "/simple-filter-app/static/js/2.4ea1ec15.chunk.js",
+    "static/js/2.4ea1ec15.chunk.js.map": "/simple-filter-app/static/js/2.4ea1ec15.chunk.js.map",
+    "index.html": "/simple-filter-app/index.html",
+    "precache-manifest.498464e2cccd4c916914f63bb8ec02d0.js": "/simple-filter-app/precache-manifest.498464e2cccd4c916914f63bb8ec02d0.js",
+    "service-worker.js": "/simple-filter-app/service-worker.js",
+    "static/css/main.23dd3fad.chunk.css.map": "/simple-filter-app/static/css/main.23dd3fad.chunk.css.map"
+  }
+}
